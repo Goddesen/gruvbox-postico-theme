@@ -1,0 +1,64 @@
+{
+  "appearanceName": "NSAppearanceNameDarkAqua",
+  "name": "Gruvbox Dark Hard",
+  "styles": {
+    "Comment": {
+      "backgroundColor": "#FFFFFF00",
+      "foregroundColor": "#928374FF"
+    },
+    "Current Statement": {
+      "backgroundColor": "#3C3836FF"
+    },
+    "Cursor": {
+      "foregroundColor": "#D79921FF"
+    },
+    "Dollar-Quoted String Constant": {
+      "backgroundColor": "#FFFFFF00",
+      "foregroundColor": "#B8BB26FF"
+    },
+    "Invalid Syntax": {
+      "backgroundColor": "#FFFFFF00",
+      "foregroundColor": "#FE8019FF"
+    },
+    "Line Comment": {
+      "backgroundColor": "#FFFFFF00",
+      "foregroundColor": "#928374FF"
+    },
+    "Line Number": {
+      "backgroundColor": "#1D2021FF",
+      "foregroundColor": "#928374FF"
+    },
+    "Matching Parenthesis": {
+      "backgroundColor": "#FB493400",
+      "foregroundColor": "#83A598FF"
+    },
+    "Mismatched Parenthesis": {
+      "backgroundColor": "#FB493460",
+      "foregroundColor": "#EBDBB2FF"
+    },
+    "Plain Text": {
+      "backgroundColor": "#1D2021FF",
+      "foregroundColor": "#EBDBB2FF"
+    },
+    "Quoted Identifier": {
+      "backgroundColor": "#FFFFFF00",
+      "foregroundColor": "#FABD2FFF"
+    },
+    "Reserved Keyword": {
+      "backgroundColor": "#FFFFFF00",
+      "foregroundColor": "#FB4934FF"
+    },
+    "Selection": {
+      "backgroundColor": "#665C54FF"
+    },
+    "String Constant": {
+      "backgroundColor": "#FFFFFF00",
+      "foregroundColor": "#B8BB26FF"
+    },
+    "Unreserved Keyword": {
+      "backgroundColor": "#FFFFFF00",
+      "foregroundColor": "#D3869BFF"
+    }
+  },
+  "uuid": "BD147DB3-7ECD-4CE9-A63A-D2298294433D"
+}
